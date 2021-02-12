@@ -4,7 +4,7 @@
 
 -  **Learning :** Economics 📈 | Blockchain ⛓ | DeFi 🦄
 -  **Languages :** Golang, Java, Solidity
--  **Organization :** [Insolar](https://insolar.io)
+-  **Organization :** [Soveren](https://www.soveren.io/)
 ***
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Hirama&show_icons=true&theme=graywhite&hide=stars)
